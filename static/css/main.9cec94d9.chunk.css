@@ -1,0 +1,2 @@
+body,li,ul{margin:0;padding:0}li{list-style:none}.container{display:grid;grid-template-columns:repeat(2,1fr);justify-items:center;align-items:center;height:100vh}.App{background-color:brown;border-radius:10px}.App,.App__list{padding:20px}.App__item{padding:5px;margin:5px;background-color:#bc8f8f;border-radius:2px}.App__buttons{display:flex;grid-gap:10px;gap:10px}
+/*# sourceMappingURL=main.9cec94d9.chunk.css.map */
